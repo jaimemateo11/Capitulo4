@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Capitulo4 implements GenerarPrimos
+public class Capitulo4 implements GenerarPrimos, SegundaInterface
 {
 		// Generar números primos de 1 a max
 		public static int[] generarPrimos (int max)
